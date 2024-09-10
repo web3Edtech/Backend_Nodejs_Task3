@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-modules-task",
+  "version": "1.0.0",
+  "description": "Task to create custom modules and import them using require in Node.js.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "NFThing",
+  "license": "ISC",
+  "dependencies": {}
+}
